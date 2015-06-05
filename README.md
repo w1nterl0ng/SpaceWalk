@@ -5,6 +5,7 @@ Note: SpaceWalk is alpha software. Almost nothing works at this point.
 ### We Need Your Help!
 
 I am still defining the initial roadmap and best method for communication.
+[Get a SpaceWalk Slack Invite](https://spacewalk.meteor.com)
 
 ### Prerequisites
 
