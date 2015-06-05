@@ -13,7 +13,7 @@ I am still defining the initial roadmap and best method for communication.
 
 #### Credits
 
-Thanks to [@timbrandin](https://twitter.com/timbrandin) and SpaceTalk for ths inspiration, and for the basic formatting of this readme.
+Thanks to [@timbrandin](https://twitter.com/timbrandin) and SpaceTalk for the inspiration, and for the basic formatting of this readme.
 
 ### License
 
